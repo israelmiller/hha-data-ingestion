@@ -1,0 +1,9 @@
+.env
+*.env
+
+# ignore ds_store files
+.DS_Store
+*.DS_Store
+
+# ignore all .json files
+*.json
